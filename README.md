@@ -34,7 +34,7 @@ Para mais informações acesse o documento: [Regulamento do TCC do IFPE](https:/
 
 |Modelos| Ficha Avaliativa | Termo de Depósito |
 |:-------------:|:----------------:|:-----------------:|
-|[Modelo do TCC na plataforma Overleaf](https://www.overleaf.com/read/rrgyvvdqxbsn)|[Ficha Avaliativa do Trabalho de Conclusão do Curso](./Documentos%20Necessarios/FICHA%20AVALIATIVA%20DO%20TRABALHO%20DE%20CONCLUS%C3%83O%20DO%20CURSO.docx)|[Termo de Depósito do TCC](./Documentos%20Necessarios/TERMO%20DE%20DEP%C3%93SITO%20DO%20TCC.docx)|
+|[Modelo do TCC na plataforma Overleaf](https://www.overleaf.com/read/nfdzxkqdhcds#415837)|[Ficha Avaliativa do Trabalho de Conclusão do Curso](./Documentos%20Necessarios/FICHA%20AVALIATIVA%20DO%20TRABALHO%20DE%20CONCLUS%C3%83O%20DO%20CURSO.docx)|[Termo de Depósito do TCC](./Documentos%20Necessarios/TERMO%20DE%20DEP%C3%93SITO%20DO%20TCC.docx)|
 |[Modelo do Pré-projeto de TCC na plataforma Overleaf](https://www.overleaf.com/read/nwhjgzjvpprg)|
 |[Modelo de Artigo na plataforma Overleaf](https://www.overleaf.com/latex/templates/modelo-artigo-ifpe/vbztdcwxnzgq)|
 
